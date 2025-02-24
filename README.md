@@ -24,7 +24,7 @@ Esta es una calculadora por medio de antlr.
    - Compila y ejecuta buscando la ubicación de tu archivo.
 3. **INTERACCIÓN**:
    - Ingresa operaciones matematicas con numeros enteros.
-   - Con minimo dos numeros enteros puedes sumar, restar, dividir y multiplicar (- , + . * . /)-
+   - Con minimo dos numeros enteros puedes sumar, restar, dividir y multiplicar (- , + . * . /).
 4. **RESULTADOS**:
    - 5+5=10
    - 5-5=0
