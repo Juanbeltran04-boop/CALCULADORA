@@ -2,16 +2,16 @@
 
 Esta es una calculadora por medio de antlr.
 
-#FUNCIONALIDADES 
+## FUNCIONALIDADES 
 
 - Operaciones matematicas de suma, resta, multiplicación y divión.
 
-##REQUISITOS 
+## REQUISITOS 
 
 - **ANTLR** Ultima versión, por la pagina oficial de antrl.org
 - **JAVA** Necesario para antrl.
 
-##USO
+## USO
 
 1. **PREPARACIÓN**:
    - Tener instalado java y antlr.
@@ -31,7 +31,7 @@ Esta es una calculadora por medio de antlr.
    - 5*5=25
    - 5/5=0
    - Los resultados varian depende de los numeros enteros que el usuario ingrese.
-##notas
+## notas
 - Si el usuario ingresa una operacion invalidad o numeros que no tenga la gramatica es 'error'.
 
 
